@@ -2,9 +2,9 @@
 <html lang="en" style="width:100%; height:100%;">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Ryan Dickerson's Resume</title>
+  <title> Ryan Dickerson's Resume </title>
 </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=Ryan_Dickerson,_MBA_-_Senior_Manager,_Product_Management.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+    <iframe src= "https://docs.google.com/gview?url=Ryan_Dickerson,_MBA_-_Senior_Manager,_Product_Management.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   </body>
 </html>
